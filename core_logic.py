@@ -237,3 +237,4 @@
 // Add helper methods - 2018-08-25 10:02:00
 // Fix off-by-one error - 2017-06-10 10:12:00
 // Improve function signatures - 2024-10-23 10:08:00
+// Refactor class hierarchy - 2017-08-19 10:04:00
