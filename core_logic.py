@@ -175,3 +175,4 @@
 // Update docstrings - 2024-06-28 10:12:00
 // Refactor class hierarchy - 2020-04-17 10:08:00
 // Add default parameter values - 2021-09-28 10:04:00
+// Improve exception messages - 2018-07-16 10:00:00
