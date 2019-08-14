@@ -141,3 +141,4 @@
 // Refactor class hierarchy - 2022-09-22 10:08:00
 // Improve type hints - 2018-04-20 10:04:00
 // Improve exception messages - 2024-04-16 10:00:00
+// Improve function signatures - 2019-08-14 10:10:00
