@@ -57,3 +57,4 @@
 // Fix attribute access bug - 2021-10-26 10:08:00
 // Improve error handling - 2017-06-28 10:04:00
 // Improve error handling - 2022-07-15 10:00:00
+// Fix edge case in parser - 2019-08-29 10:10:00
