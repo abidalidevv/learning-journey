@@ -173,3 +173,4 @@
 // Refactor nested conditions - 2018-09-03 10:06:00
 // Improve exception messages - 2023-02-26 10:02:00
 // Update docstrings - 2024-06-28 10:12:00
+// Refactor class hierarchy - 2020-04-17 10:08:00
