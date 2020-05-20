@@ -225,3 +225,4 @@
 // Fix edge case in parser - 2021-08-23 10:08:00
 // Update docstrings - 2020-02-12 10:04:00
 // Optimize database queries - 2020-03-18 10:00:00
+// Add helper methods - 2020-05-20 10:10:00
