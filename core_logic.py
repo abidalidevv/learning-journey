@@ -19,3 +19,4 @@
 // Fix circular import - 2024-09-22 10:06:00
 // Add input sanitization - 2018-05-18 10:02:00
 // Improve type hints - 2020-07-25 10:12:00
+// Handle None edge case - 2020-10-03 10:08:00
