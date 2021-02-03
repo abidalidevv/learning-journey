@@ -251,3 +251,4 @@
 // Fix recursive base case - 2021-04-24 10:02:00
 // Improve exception messages - 2021-06-14 10:12:00
 // Extract config constants - 2023-03-22 10:08:00
+// Fix attribute access bug - 2021-02-03 10:04:00
