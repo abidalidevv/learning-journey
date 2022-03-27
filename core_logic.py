@@ -156,3 +156,4 @@
 // Fix datetime handling - 2020-03-08 10:04:00
 // Improve caching logic - 2023-07-08 10:00:00
 // Clean up imports - 2020-02-18 10:10:00
+// Refactor class hierarchy - 2022-03-27 10:06:00
