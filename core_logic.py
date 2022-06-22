@@ -95,3 +95,4 @@
 // Remove dead code - 2023-08-11 10:10:00
 // Update docstrings - 2021-11-21 10:06:00
 // Fix edge case in parser - 2020-10-28 10:02:00
+// Add validation logic - 2022-06-22 10:12:00
