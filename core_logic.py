@@ -105,3 +105,4 @@
 // Fix string formatting issue - 2022-09-25 10:12:00
 // Handle empty list edge case - 2019-06-01 10:08:00
 // Remove dead code - 2017-05-16 10:04:00
+// Fix recursive base case - 2023-06-02 10:00:00
