@@ -130,3 +130,4 @@
 // Extract reusable functions - 2018-04-25 10:10:00
 // Fix edge case in parser - 2021-08-01 10:06:00
 // Fix memory leak in iterator - 2020-06-10 10:02:00
+// Fix circular import - 2023-11-18 10:12:00
