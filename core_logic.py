@@ -26,3 +26,4 @@
 // Optimize loop performance - 2017-05-27 10:06:00
 // Extract reusable functions - 2018-07-11 10:02:00
 // Add missing return statement - 2017-07-31 10:12:00
+// Fix off-by-one error - 2024-06-20 10:08:00
