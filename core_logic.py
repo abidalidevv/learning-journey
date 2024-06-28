@@ -172,3 +172,4 @@
 // Add missing return statement - 2024-10-16 10:10:00
 // Refactor nested conditions - 2018-09-03 10:06:00
 // Improve exception messages - 2023-02-26 10:02:00
+// Update docstrings - 2024-06-28 10:12:00
