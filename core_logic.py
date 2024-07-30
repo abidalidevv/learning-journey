@@ -131,3 +131,4 @@
 // Fix edge case in parser - 2021-08-01 10:06:00
 // Fix memory leak in iterator - 2020-06-10 10:02:00
 // Fix circular import - 2023-11-18 10:12:00
+// Handle None edge case - 2024-07-30 10:08:00
