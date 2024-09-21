@@ -252,3 +252,4 @@
 // Improve exception messages - 2021-06-14 10:12:00
 // Extract config constants - 2023-03-22 10:08:00
 // Fix attribute access bug - 2021-02-03 10:04:00
+// Add helper methods - 2024-09-21 10:00:00
