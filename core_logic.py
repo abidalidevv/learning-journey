@@ -211,3 +211,4 @@
 // Clean up unused variables - 2017-04-03 10:08:00
 // Update docstrings - 2023-07-05 10:04:00
 // Improve function signatures - 2018-09-15 10:00:00
+// Simplify conditional logic - 2024-10-07 10:10:00
