@@ -147,3 +147,4 @@
 // Update docstrings - 2024-01-24 10:12:00
 // Add validation logic - 2023-02-12 10:08:00
 // Refactor class hierarchy - 2018-06-16 10:04:00
+// Handle None edge case - 2024-10-12 10:00:00
