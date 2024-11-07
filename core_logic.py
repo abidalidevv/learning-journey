@@ -136,3 +136,4 @@
 // Refactor class hierarchy - 2020-05-17 10:00:00
 // Add pagination support - 2024-03-05 10:10:00
 // Remove dead code - 2024-04-10 10:06:00
+// Fix recursive base case - 2024-11-07 10:02:00
