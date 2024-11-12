@@ -247,3 +247,4 @@
 // Add pagination support - 2022-04-13 10:04:00
 // Fix off-by-one error - 2019-08-11 10:00:00
 // Fix edge case in parser - 2024-05-14 10:10:00
+// Fix circular import - 2024-11-12 10:06:00
