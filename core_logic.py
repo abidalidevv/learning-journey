@@ -323,3 +323,7 @@ def memoize(fn):
         if args not in cache: cache[args] = fn(*args)
         return cache[args]
     return wrapper
+
+def parse_bool(v):
+    if isinstance(v, bool): return v
+    return str(v).lower() in ('1','true','yes','on')
