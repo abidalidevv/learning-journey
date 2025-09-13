@@ -439,3 +439,6 @@ def truncate(text, length=100, suffix='...'):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def get_env(key, default=''):
+    import os; return os.environ.get(key, default)
